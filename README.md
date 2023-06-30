@@ -1,5 +1,5 @@
 # Basic Hotel Booking System With Sockets Library In Python
-* Please first, enter your IP address to the necessary places in "server.py" and "client.py". Then Initiate "server.py" first, and then "client.py".
+* Please first, enter your IP address to the necessary places in [server.py](server/server.py) and [client.py](client/client.py). Then Initiate [server.py](server/server.py) first, and then [client.py](client/client.py).
 * For admin login: 
   *   Admin Name: admin
   *   Password: admin
