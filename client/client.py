@@ -7,7 +7,7 @@ from pickle import loads
 import sys
 
 client = socket(AF_INET, SOCK_STREAM)
-client.connect(("IP ADDRESS", 8000))  # Enter Ip Address
+client.connect(("Enter Your IP Address", 8000))  # Enter Ip Address
 
 permission = {"0": ["create_admin", "change_password", "change_permission", "get_graphic", "change_price"],
               "1": ["get_graphic", "change_price"],
