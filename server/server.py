@@ -15,7 +15,7 @@ def listening(port, ip):
     return server_, server_connection_
 
 
-server, server_connection = listening(8000, "IP ADDRESS")  # Enter your Ip Address
+server, server_connection = listening(8000, "Enter Your IP Address")  # Enter your Ip Address
 
 
 def prices():
